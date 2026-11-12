@@ -25,4 +25,4 @@ TensorFlow / Keras · DenseNet121 · scikit-learn (evaluation) · Google Colab (
 
 ## Author
 **Ahmed Sharahili** — AI & Full-Stack Engineer
-[GitHub](https://github.com/Ahmednsh) · [LinkedIn](https://linkedin.com/in/ahmed-sharahili) · Production work: [Smart Saudi Advisor](https://smart-saudi-advisor.onrender.com) · [Estibsar](https://estibsar.app) · [GO SOUTH KSA](https://go-south-ksa.onrender.com)
+[GitHub](https://github.com/Ahmednsh) · [LinkedIn](https://linkedin.com/in/ahmed-sharahili) · Production work: [Smart Advisor](https://smartadvisor.app) · [Estibsar](https://estibsar.app) · [GO SOUTH KSA](https://go-south-ksa.onrender.com)
